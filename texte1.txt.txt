@@ -1,1 +1,3 @@
 olha primeiro mexendo na linha 
+if (nome.equals(texto)){
+}
